@@ -17,7 +17,7 @@ Application de gestion de tâches simple, moderne et rapide, développée avec *
 
 ## 🖥️ Aperçu de l’application
 
-![Todo Preview](todolist\public\preview.png)
+![Todo Preview](./todolist/public/preview.png)
 
 
 ---
