@@ -27,7 +27,7 @@ Application de gestion de tâches simple, moderne et rapide, développée avec *
 | Outil / Lib | Description |
 |-------------|-------------|
 | React | Base de l'application |
-| CSS / TailwindCSS (si utilisé) | Design UI |
+| CSS / TailwindCSS | Design UI |
 | localStorage | Stockage des données côté navigateur |
 
 ---
